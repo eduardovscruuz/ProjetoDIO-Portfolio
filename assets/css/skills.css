@@ -1,0 +1,84 @@
+.skills {
+    margin: 0 2rem 0 2rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.skills h3 {
+    text-align: center;
+    font-size: 1.3rem;
+}
+
+.skills .tools {
+    width: 40%;
+}
+
+.skills .tools ul {
+    width: 80%;
+    list-style: none;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    text-align: center;
+    align-items: center;
+}
+
+.skills .tools ul li {
+    padding: .5rem;
+}
+
+.skills .tools ul li img {
+    text-align: center;
+    width: 65%;
+}
+
+.skills .personal {
+    width: 50%;
+    justify-items: center;
+}
+
+.skills .personal ul {
+    padding: 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: fit-content;
+}
+
+.skills .personal ul li {
+    font-size: .9rem;
+    margin: 0 1.1rem 1rem 2rem;
+}
+
+@media only screen and (max-width: 768px) {
+    .skills {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .skills .tools,
+    .skills .personal {
+        width: 100%;
+        justify-items: center;
+    }
+
+    .skills .tools ul {
+        padding: 0;
+        width: fit-content
+    }
+
+    .skills .tools ul li {
+        padding: 0;
+    }
+
+    .skills .tools ul li img {
+        margin: 1rem;
+        width: 6rem;
+    }
+
+    .skills .personal ul {
+        padding: 0;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        width: 100%;
+        margin: 2rem 0 2rem 0;
+    }
+}
