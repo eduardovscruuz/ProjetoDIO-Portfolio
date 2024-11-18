@@ -9,19 +9,19 @@
         "hardSkills": [
             {
                 "name": "CSharp",
-                "logo": "https://raw.githubusercontent.com/eduardovscruuz/FormacaoDIO-Javascript/refs/heads/main/DesafioDIO-Portfolio/data/imgs/csharp.svg"
+                "logo": "https://raw.githubusercontent.com/eduardovscruuz/ProjetoDIO-Portfolio/refs/heads/main/data/imgs/csharp.svg"
             },
             {
                 "name": "Javascript",
-                "logo": "https://raw.githubusercontent.com/eduardovscruuz/FormacaoDIO-Javascript/refs/heads/main/DesafioDIO-Portfolio/data/imgs/javascript.svg"
+                "logo": "https://raw.githubusercontent.com/eduardovscruuz/ProjetoDIO-Portfolio/refs/heads/main/data/imgs/javascript.svg"
             },
             {
                 "name": "React",
-                "logo": "https://raw.githubusercontent.com/eduardovscruuz/FormacaoDIO-Javascript/refs/heads/main/DesafioDIO-Portfolio/data/imgs/react.svg"
+                "logo": "https://raw.githubusercontent.com/eduardovscruuz/ProjetoDIO-Portfolio/refs/heads/main/data/imgs/react.svg"
             },
             {
                 "name": "Dotnet",
-                "logo": "https://raw.githubusercontent.com/eduardovscruuz/FormacaoDIO-Javascript/refs/heads/main/DesafioDIO-Portfolio/data/imgs/dotnet.svg"
+                "logo": "https://raw.githubusercontent.com/eduardovscruuz/ProjetoDIO-Portfolio/refs/heads/main/data/imgs/dotnet.svg"
             }
         ],
         "softSkills": [
